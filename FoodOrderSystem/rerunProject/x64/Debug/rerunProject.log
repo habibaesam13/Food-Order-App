@@ -1,0 +1,7 @@
+﻿  rerunProject.cpp
+C:\Users\dell\source\repos\rerunProject\rerunProject\rerunProject.cpp(353,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\rerunProject\rerunProject\rerunProject.cpp(463,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\rerunProject\rerunProject\rerunProject.cpp(489,3): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\dell\source\repos\rerunProject\rerunProject\rerunProject.cpp(514,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dell\source\repos\rerunProject\rerunProject\rerunProject.cpp(852,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rerunProject.vcxproj -> C:\Users\dell\source\repos\rerunProject\x64\Debug\rerunProject.exe
